@@ -6,6 +6,7 @@
     <div class="flex flex-row items-center space-x-4 py-1">
       <NuxtLink class="text-[#FFFFFF75]" to="/about"> About </NuxtLink>
       <NuxtLink class="text-[#FFFFFF75]" to="/commerce"> Commerce </NuxtLink>
+      <NuxtLink class="text-[#FFFFFF75]" to="/team"> Team </NuxtLink>
       <a href="https://github.com/edgio-docs/edgio-nuxt3-example" target="_blank">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" class="fill-[#FFFFFF75]" viewBox="0 0 16 16">
           <path
