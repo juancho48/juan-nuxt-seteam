@@ -28,18 +28,19 @@
           <div class="flex flex-wrap">
             <!-- Member #1 -->
             <div class="w-full md:w-6/12 lg:w-3/12 mb-6 px-6 sm:px-6 lg:px-4">
+              <NuxtLink href="/team/juan">
               <div class="flex flex-col">
                 <!-- Avatar -->
                 <a href="#" class="mx-auto">
                   <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                    src="https://images.unsplash.com/photo-1634926878768-2a5b3c42f139?fit=clamp&w=400&h=400&q=80">
+                    src="/juan_twitter_profile.jpg">
                 </a>
 
                 <!-- Details -->
                 <div class="text-center mt-6">
                   <!-- Name -->
                   <h1 class="text-gray-900 text-xl font-bold mb-1">
-                    Tranter Jaskulski
+                    Juan Pineda
                   </h1>
 
                   <!-- Title -->
@@ -67,6 +68,7 @@
                   </div>
                 </div>
               </div>
+              </NuxtLink>
             </div>
 
             <!-- Member #2 -->
